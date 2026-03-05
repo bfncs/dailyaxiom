@@ -1,0 +1,7 @@
+<article>
+    <h2><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
+    <div class="meta">{{ page.date | date(format="%Y-%m-%d") }}</div>
+    <div class="content">
+        {{ page.content | safe }}
+    </div>
+</article>

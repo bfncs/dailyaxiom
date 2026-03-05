@@ -1,0 +1,12 @@
+<nav class="post-nav">
+    <div class="nav-left">
+        {% if page.lower %}
+            <a href="{{ page.lower.permalink }}" title="Older post">&larr; {{ page.lower.title }}</a>
+        {% endif %}
+    </div>
+    <div class="nav-right">
+        {% if page.higher %}
+            <a href="{{ page.higher.permalink }}" title="Newer post">{{ page.higher.title }} &rarr;</a>
+        {% endif %}
+    </div>
+</nav>

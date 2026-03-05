@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% set section = get_section(path="posts/_index.md") %}
+    
+    {% if section.pages %}
+        {% set page = section.pages | first %}
+	{% include "article.html" %}
+        {% include "nav.html" %}
+    {% endif %}
+{% endblock content %}

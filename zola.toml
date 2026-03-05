@@ -1,0 +1,12 @@
+base_url = "https://dailyaxiom.eu"
+title = "Daily Axiom"
+description = "Grow wisdom. One thought per day."
+author = "Marc Löhe"
+
+minify_html = true
+compile_sass = false
+build_search_index = false
+generate_feeds = true
+
+[markdown]
+smart_punctuation = true

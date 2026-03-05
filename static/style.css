@@ -1,0 +1,96 @@
+/* 1. Base Reset & Rendering */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: ui-serif, 'Charter', 'Bitstream Charter', 'Sitka Text', 'Cambria', 'Georgia', serif;
+    color: #000;
+    background-color: #fff;
+    max-width: 60ch; 
+    margin: 0 auto;
+    padding: 4rem 1.5rem;
+    font-size: 1.125rem;
+    line-height: 1.6;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3 {
+    font-weight: normal;
+    line-height: 1.2;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 2rem;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+}
+
+a {
+    color: #000;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+}
+
+a:hover {
+    text-decoration-style: dashed;
+}
+
+header {
+    margin-bottom: 4rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 2rem;
+}
+
+header a {
+    text-decoration: none;
+}
+
+.tagline {
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+    font-style: italic;
+    font-size: 1rem;
+}
+
+.meta {
+    font-style: italic;
+    margin-bottom: 2rem;
+    font-size: 1rem;
+}
+
+
+.post-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+    border-top: 1px solid #ccc;
+    padding-top: 2rem;
+    font-size: 1rem;
+}
+
+.nav-left,.nav-right {
+    max-width: 45%;
+}
+
+.post-nav a {
+    text-decoration: none;
+}
+
+.post-nav a:hover {
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
