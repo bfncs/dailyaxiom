@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Daily Axiom</title>
+    <subtitle>Grow wisdom. One thought per day.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://dailyaxiom.eu/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://dailyaxiom.eu"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-03-10T00:00:00+00:00</updated>
+    <id>https://dailyaxiom.eu/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Giffen paradox</title>
+        <published>2026-03-10T00:00:00+00:00</published>
+        <updated>2026-03-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Marc Löhe
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dailyaxiom.eu/posts/giffen-paradox/"/>
+        <id>https://dailyaxiom.eu/posts/giffen-paradox/</id>
+        
+        <content type="html" xml:base="https://dailyaxiom.eu/posts/giffen-paradox/">&lt;p&gt;The &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Giffen_good&quot;&gt;Giffen paradox&lt;&#x2F;a&gt; describes the phenomenon, that in certain situation there is more demand for a good as the prices rises - instead of dropping as conventionally expected.&lt;&#x2F;p&gt;
+&lt;p&gt;The effect can be observed for goods that are affordable and fulfil their purpose, but where consumers would strive to replace their consumption by higher regarded goods. Key feature is that there is no more affordable alternative to meet a fundamental need these goods can meet.&lt;&#x2F;p&gt;
+&lt;p&gt;For example people living with a low income might meet their nutritional need for protein with beans, but prefer meat once their income rises. As the bean price get higher, there would be less income to spent on meat – leading to a higher bean consumption despite the higher price.&lt;&#x2F;p&gt;
+&lt;p&gt;Other classic examples for the Giffen paradox include public transit, payday loan or second hand clothes.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Survivorship bias</title>
+        <published>2026-03-07T00:00:00+00:00</published>
+        <updated>2026-03-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Marc Löhe
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dailyaxiom.eu/posts/survivorship-bias/"/>
+        <id>https://dailyaxiom.eu/posts/survivorship-bias/</id>
+        
+        <content type="html" xml:base="https://dailyaxiom.eu/posts/survivorship-bias/">&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Survivorship_bias&quot;&gt;Survivorship bias&lt;&#x2F;a&gt; occurs when through excluding samples from analysis by (unintentional) selection, focussing on only the selected samples leads to wrong conclusions.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;survivorship-bias.excalidraw.png&quot; alt=&quot;Diagram showing how different conclusions can be drawn looking at all samples or only survivors&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The best known example for this cognitive bias is &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Abraham_Wald&quot;&gt;Abraham Wald’s&lt;&#x2F;a&gt; work on aircraft returning from WWII flying missions: counterintuitively the bullet holes statistically observed are a bad indication on where the planes should be enforced. On the contrary: these positions are the ones strong enough to take a hit and still let the plane return. The positions with no bullet holes should be enforced instead as they are the ones that lead to crash.&lt;&#x2F;p&gt;
+&lt;p&gt;This specific type of samplimg bias has been found in diverse domains from economics to &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;pubmed.ncbi.nlm.nih.gov&#x2F;3692980&#x2F;&quot;&gt;cats falling from high buildings&lt;&#x2F;a&gt;. Interestingly, even science itself might systematically &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;pmc.ncbi.nlm.nih.gov&#x2F;articles&#x2F;PMC1182327&#x2F;&quot;&gt;skew results&lt;&#x2F;a&gt; through the tendency to publish positive results.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Decoy effect</title>
+        <published>2026-03-06T00:00:00+00:00</published>
+        <updated>2026-03-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Marc Löhe
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dailyaxiom.eu/posts/decoy-effect/"/>
+        <id>https://dailyaxiom.eu/posts/decoy-effect/</id>
+        
+        <content type="html" xml:base="https://dailyaxiom.eu/posts/decoy-effect/">&lt;p&gt;The &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Decoy_effect&quot;&gt;decoy effect&lt;&#x2F;a&gt; can be exploited to nudge a consumer to a specific decision by adding a clearly worse decoy offering. The decoy makes the other option look good and can change consumer preference – while it obviously doesn’t change the actual ratio of value to price, just the framing.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;decoy-effect.excalidraw.png&quot; alt=&quot;A decoy offering only exists to be dominated by the offering that is pushed&quot; &#x2F;&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;In addition to marketing other findings suggest that this effect translates to votes, public tender and other areas.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Braess&#x27;s paradox</title>
+        <published>2026-03-05T00:00:00+00:00</published>
+        <updated>2026-03-05T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Marc Löhe
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dailyaxiom.eu/posts/braess-paradox/"/>
+        <id>https://dailyaxiom.eu/posts/braess-paradox/</id>
+        
+        <content type="html" xml:base="https://dailyaxiom.eu/posts/braess-paradox/">&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Braess%27s_paradox&quot;&gt;Braess’s paradox&lt;&#x2F;a&gt; is the observation that adding an additional option to a system with rational actors might lead to a worse situation for everyone.&lt;&#x2F;p&gt;
+&lt;p&gt;The original discovery was made by mathematically modelling a road network, then adding additional roads to it and showing that this results in &lt;em&gt;slower overall traffic flow&lt;&#x2F;em&gt;. There has been empirical evidence of the effect in the wild, e.g. when the 42nd Street in Manhattan was closed and it did lead to less traffic jams in the area, instead of more.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;braess-paradox.excalidraw.png&quot; alt=&quot;Braess’s paradox scenario&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The counterintuitive effect can be explained in terms of multiplayer prisoner’s dilemma: every driver selfishly tries to find the shortest possible route, resulting in a &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nash_equilibrium&quot;&gt;Nash equilibrium&lt;&#x2F;a&gt;. While the Nash equilibrium is stable (noone has an incentive to change routes, if there is no currently faster route for anyone) it does not necessarily have the optimal overall performance.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
